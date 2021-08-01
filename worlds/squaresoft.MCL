@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <!DOCTYPE muclient>
-<!-- Saved on Sunday, August 01, 2021, 8:44 PM -->
+<!-- Saved on Sunday, August 01, 2021, 8:53 PM -->
 <!-- MuClient version 5.01 -->
 <!-- Written by Nick Gammon -->
 <!-- Home Page: http://www.mushclient.com/ -->
@@ -8,7 +8,7 @@
 <world
    muclient_version="5.01"
    world_file_version="15"
-   date_saved="2021-08-01 20:44:05"
+   date_saved="2021-08-01 20:53:45"
 
    auto_say_override_prefix="-"
    auto_say_string="say "
@@ -77,6 +77,7 @@
    pixel_offset="1"
    port="9000"
    proxy_port="9000"
+   save_world_automatically="y"
    script_errors_to_output_window="y"
    send_file_delay_per_lines="1"
    send_mxp_afk_response="y"
@@ -111,7 +112,7 @@
 <triggers
    muclient_version="5.01"
    world_file_version="15"
-   date_saved="2021-08-01 20:44:05"
+   date_saved="2021-08-01 20:53:45"
   >
   <trigger
    enabled="y"
@@ -431,7 +432,7 @@ end</send>
 <aliases
    muclient_version="5.01"
    world_file_version="15"
-   date_saved="2021-08-01 20:44:05"
+   date_saved="2021-08-01 20:53:45"
   >
   <alias
    match="^ct (.+)$"
@@ -655,7 +656,7 @@ saveconfig()</send>
 <timers
    muclient_version="5.01"
    world_file_version="15"
-   date_saved="2021-08-01 20:44:05"
+   date_saved="2021-08-01 20:53:45"
   >
   <timer enabled="y" second="2.00" offset_second="0.00"    send_to="12"
 >
@@ -702,7 +703,7 @@ end</send>
 <macros
    muclient_version="5.01"
    world_file_version="15"
-   date_saved="2021-08-01 20:44:05"
+   date_saved="2021-08-01 20:53:45"
   >
 
   <macro name="up" type="send_now" >
@@ -801,7 +802,7 @@ end</send>
 <variables
    muclient_version="5.01"
    world_file_version="15"
-   date_saved="2021-08-01 20:44:05"
+   date_saved="2021-08-01 20:53:45"
   >
   <variable name="PPIparams_1">n:1|n:2|n:2|s:D:\\Programming\\git\\UOSSMUD-Soundpack\\worlds\\sounds/misc/unwield.ogg|n:3|n:0|n:4|n:0|n:5|n:25</variable>
 </variables>
@@ -811,7 +812,7 @@ end</send>
 <colours
    muclient_version="5.01"
    world_file_version="15"
-   date_saved="2021-08-01 20:44:05"
+   date_saved="2021-08-01 20:53:45"
   >
 
 <ansi>
@@ -868,7 +869,7 @@ end</send>
 <keypad
    muclient_version="5.01"
    world_file_version="15"
-   date_saved="2021-08-01 20:44:05"
+   date_saved="2021-08-01 20:53:45"
   >
 
   <key name="0" >
@@ -981,7 +982,7 @@ end</send>
 <printing
    muclient_version="5.01"
    world_file_version="15"
-   date_saved="2021-08-01 20:44:05"
+   date_saved="2021-08-01 20:53:45"
   >
 
 <ansi>

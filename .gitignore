@@ -1,2 +1,2 @@
 MUSHclient.ini
-worlds/plugins/state/
+worlds/plugins/state/*.xml
