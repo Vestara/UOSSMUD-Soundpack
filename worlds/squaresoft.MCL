@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <!DOCTYPE muclient>
-<!-- Saved on Friday, July 30, 2021, 2:14 PM -->
+<!-- Saved on Sunday, August 01, 2021, 8:44 PM -->
 <!-- MuClient version 5.01 -->
 <!-- Written by Nick Gammon -->
 <!-- Home Page: http://www.mushclient.com/ -->
@@ -8,7 +8,7 @@
 <world
    muclient_version="5.01"
    world_file_version="15"
-   date_saved="2021-07-30 14:14:20"
+   date_saved="2021-08-01 20:44:05"
 
    auto_say_override_prefix="-"
    auto_say_string="say "
@@ -23,7 +23,7 @@
    proxy_server="uossmud.sanwich.net"
    script_editor="notepad"
    script_editor_argument="%file"
-   script_filename="D:\Programming\git\uossmud soundpack\mushclient\worlds\uosssound.lua"
+   script_filename="D:\Programming\git\UOSSMUD-Soundpack\worlds\uosssound.lua"
    script_language="Lua"
    script_prefix="$"
    site="uossmud.sandwich.net"
@@ -111,7 +111,7 @@
 <triggers
    muclient_version="5.01"
    world_file_version="15"
-   date_saved="2021-07-30 14:14:20"
+   date_saved="2021-08-01 20:44:05"
   >
   <trigger
    enabled="y"
@@ -431,7 +431,7 @@ end</send>
 <aliases
    muclient_version="5.01"
    world_file_version="15"
-   date_saved="2021-07-30 14:14:20"
+   date_saved="2021-08-01 20:44:05"
   >
   <alias
    match="^ct (.+)$"
@@ -655,7 +655,7 @@ saveconfig()</send>
 <timers
    muclient_version="5.01"
    world_file_version="15"
-   date_saved="2021-07-30 14:14:20"
+   date_saved="2021-08-01 20:44:05"
   >
   <timer enabled="y" second="2.00" offset_second="0.00"    send_to="12"
 >
@@ -702,7 +702,7 @@ end</send>
 <macros
    muclient_version="5.01"
    world_file_version="15"
-   date_saved="2021-07-30 14:14:20"
+   date_saved="2021-08-01 20:44:05"
   >
 
   <macro name="up" type="send_now" >
@@ -801,9 +801,9 @@ end</send>
 <variables
    muclient_version="5.01"
    world_file_version="15"
-   date_saved="2021-07-30 14:14:20"
+   date_saved="2021-08-01 20:44:05"
   >
-  <variable name="PPIparams_1">n:1|n:2|n:2|s:D:\\Programming\\git\\uossmud soundpack\\mushclient\\worlds\\sounds/misc/unwield.ogg|n:3|n:0|n:4|n:0|n:5|n:25</variable>
+  <variable name="PPIparams_1">n:1|n:2|n:2|s:D:\\Programming\\git\\UOSSMUD-Soundpack\\worlds\\sounds/misc/unwield.ogg|n:3|n:0|n:4|n:0|n:5|n:25</variable>
 </variables>
 
 <!-- colours -->
@@ -811,7 +811,7 @@ end</send>
 <colours
    muclient_version="5.01"
    world_file_version="15"
-   date_saved="2021-07-30 14:14:20"
+   date_saved="2021-08-01 20:44:05"
   >
 
 <ansi>
@@ -868,7 +868,7 @@ end</send>
 <keypad
    muclient_version="5.01"
    world_file_version="15"
-   date_saved="2021-07-30 14:14:20"
+   date_saved="2021-08-01 20:44:05"
   >
 
   <key name="0" >
@@ -981,7 +981,7 @@ end</send>
 <printing
    muclient_version="5.01"
    world_file_version="15"
-   date_saved="2021-07-30 14:14:20"
+   date_saved="2021-08-01 20:44:05"
   >
 
 <ansi>
