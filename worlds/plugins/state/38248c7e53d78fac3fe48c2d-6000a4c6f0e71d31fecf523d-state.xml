@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE muclient>
+<!-- Saved on Friday, July 30, 2021, 2:14 PM -->
+<!-- MuClient version 5.01 -->
+<!-- Written by Nick Gammon -->
+<!-- Home Page: http://www.mushclient.com/ -->
+
+<!-- Plugin state saved. Plugin: "channel_history". World: "squaresoft". -->
+
+<muclient>
+
+<!-- variables -->
+
+<variables
+   muclient_version="5.01"
+   world_file_version="15"
+   date_saved="2021-07-30 14:14:20"
+  >
+  <variable name="timestamps">true</variable>
+  <variable name="tts">1</variable>
+</variables>
+</muclient>
